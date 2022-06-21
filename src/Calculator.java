@@ -19,6 +19,8 @@ class Calculator {
     System.out.println("Enter second number");
     number2 = input.nextDouble();
 
+	System.out.println("Added new Changes");
+
     switch (operator) {
 
       
